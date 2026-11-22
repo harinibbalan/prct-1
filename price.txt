@@ -1,1 +1,1 @@
-Day 1 practise = 100
+Day 1 practise = 1000
