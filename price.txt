@@ -1,1 +1,2 @@
 Day 1 practise = 1000
+day practise = 2000
